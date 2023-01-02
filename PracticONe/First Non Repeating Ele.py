@@ -12,3 +12,5 @@ def FirstNonRepeat(arr):
 
 
 print(FirstNonRepeat([9, 4, 9, 6, 7, 4]))
+print(FirstNonRepeat([1, 5, 9, 2, 1, 3, 2, 6, 6, 3, 7, 2, 8, 9, 4]))
+print(FirstNonRepeat([1, 4, 9, 2, 1, 3, 2, 6, 6, 3, 7, 2, 8, 9, 4]))
